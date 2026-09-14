@@ -1866,7 +1866,6 @@ PRODUCT_PACKAGES += \
     libmml \
     libmmprofile \
     libmnetlink_v104 \
-    libmnl-v33 \
     libmorpho_HdrChecker \
     libmsbc_mtk \
     libmtk-fusion-ril-prop-vsim \
@@ -2098,7 +2097,7 @@ PRODUCT_PACKAGES += \
     liblibarm_mali_config_sysprops \
     liblpcnr \
     libmmagent \
-    libmnl \
+    libmnl-v33 \
     libmsnr \
     libmtk_drvb \
     libmtkcam.atmseventmgr \
@@ -2537,7 +2536,6 @@ PRODUCT_PACKAGES += \
     vendor_lib64_liblibarm_mali_config_sysprops_so \
     vendor_lib64_liblpcnr_so \
     vendor_lib64_libmmagent_so \
-    vendor_lib64_libmnl_so \
     vendor_lib64_libmsnr_so \
     vendor_lib64_libmtk_drvb_so \
     vendor_lib64_libmtkcam_atmseventmgr_so \
